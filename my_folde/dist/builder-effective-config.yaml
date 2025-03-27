@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.example.ipografika
+win:
+  target: nsis
+  sign: false
+asar: true
+files: []
+electronVersion: 25.9.8

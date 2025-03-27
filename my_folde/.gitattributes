@@ -1,0 +1,4 @@
+dist/win-unpacked/Ipografika.exe filter=lfs diff=lfs merge=lfs -text
+dist/resources/app.asar filter=lfs diff=lfs merge=lfs -text
+dist.zip filter=lfs diff=lfs merge=lfs -text
+dist/win-unpacked/resources/*.asar filter=lfs diff=lfs merge=lfs -text
